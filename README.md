@@ -3,7 +3,7 @@
 **Full-Stack Developer · Automation & Cloud Integrations**  
 Ciudad Victoria, Tamps, México  
 
-Soy un desarrollador full-stack enfocado en construir aplicaciones web completas, automatizar procesos de negocio y orquestar integraciones en la nube. Trabajo tanto en el frontend como en el backend, diseñando arquitecturas escalables, manejando grandes volúmenes de datos y creando flujos de documentos seguros con firmas digitales y evidencia automatizada.
+Soy un desarrollador full-stack enfocado en construir aplicaciones web completas, automatizar procesos de negocio y orquestar integraciones en la nube. Trabajo tanto en el frontend como en el backend, diseñando arquitecturas escalables, manejando grandes volúmenes de datos y creando flujos de automatización.
 
 ---
 
